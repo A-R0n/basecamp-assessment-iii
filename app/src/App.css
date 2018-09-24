@@ -1,0 +1,40 @@
+header {
+  background: darkblue;
+  color: white;
+  width: 100vw;
+  height: 200px;
+  text-align: center;
+  letter-spacing: .25rem;
+  font-family: fantasy;
+  font-size: 1em;
+  line-height: 3em;
+  background-image: url("https://lumiere-a.akamaihd.net/v1/images/tmb-sq_character-yoda_launch_9397c665.jpeg");
+  background-repeat: no-repeat;
+
+}
+
+p {
+  border: 5px purple solid;
+  height: 50vh;
+  text-align: left;
+  background-image: url("https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-preview-2.jpg");
+  background-repeat: no-repeat;
+  color: white;
+}
+
+ul {
+  text-align: left;
+  border: 5px red solid;
+  background-color: rgb(58, 17, 85);
+  width: 10vw;
+  padding-left: 70px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+footer {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 9em;
+
+}
+
